@@ -1,4 +1,6 @@
-<h1 align = "center"> Hi, I'm Mohsen Abedelaal<img src="[https://github.com/mohsenabedelaal/mohsenabedelaal/blob/main/wave.gif](https://github.com/mohsenabedelaal/mohsenabedelaal/blob/main/wave.gif)" width="50"></h1> 
+<h1 align = "center"> Hi, I'm Mohsen Abedelaal<img src="![wave](https://github.com/user-attachments/assets/6517ea44-4e2d-4835-8036-48c418c754df)
+" width="50"></h1> 
+
 
 <p align = "center">
 <img src='' border='10'/>
