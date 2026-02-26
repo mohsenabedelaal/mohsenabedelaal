@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mohsen Abedelaal 👋</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mohsenabedelaal/mohsenabedelaal/main/e1f3413bf5036045713341394f617225.gif" width="480" alt="Pixel Art Developer GIF by brunopixels"/>
+  <img src="IMG_7560.gif" width="480" alt="Pixel Art Developer GIF by brunopixels"/>
 </p>
 
 <div align="center">
