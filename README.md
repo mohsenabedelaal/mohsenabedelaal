@@ -6,10 +6,10 @@
 
 <div align="center">
 
-<a href="mailto:mohsenabedelaal@gmail.com?subject=Hello&body=Message" target="_blank">
+<a href="mailto:mohsen.abedelaal@gmail.com?subject=Hello&body=Message" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-novoforce?style=for-the-badge&logo=gmail&logoColor=white&color=red&labelColor=000000" alt="Gmail"/>
 </a>
-<a href="https://www.linkedin.com/in/mohsenabedelaal/" target="_blank">
+<a href=https://www.linkedin.com/in/mohsen-abedelaal/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-novoforce?style=for-the-badge&logo=linkedin&logoColor=white&color=blue&labelColor=000000" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/mohsenabedelaal" target="_blank">
@@ -32,19 +32,19 @@
 <div align="center">
 
 ```
-  🤖 AI / ML      :  PyTorch, TensorFlow, scikit-learn, OpenCV
-  🐍 Languages    :  Python, JavaScript, C++
-  🌐 Web          :  React, Node.js, HTML, CSS, Bootstrap
+  🤖 AI / ML      :  PyTorch, TensorFlow, scikit-learn
+  🐍 Languages    :  Python, JavaScript
+  🌐 Web          :  React, Node.js, HTML, CSS, Bootstrap, Streamlit, TailWind, NextJS
   🗄️ Backend      :  FastAPI, Flask, Django
   🗃️ Database     :  PostgreSQL, MySQL, MongoDB
-  ☁️ DevOps       :  Docker, Git, Linux, CI/CD
+  ☁️ DevOps       :  Docker, Git, Linux, CI/CD , AWS Cloud
 ```
 
 </div>
 
 ---
 
-### <img src="https://media.giphy.com/media/QCQn6e5frpmm7bdTHI/giphy.gif" width="80"> GitHub Stats
+### <img src="https://i.pinimg.com/originals/08/11/59/081159b00765756d4e2b63ed27f305ea.gif" width="80"> GitHub Stats
 
 <div align="center">
 
@@ -65,6 +65,6 @@
 <hr/>
 
 <em><b>I love connecting with different people</b> — if you want to say <b>hi, I'll be happy to get connected!</b>
-<a href="https://www.linkedin.com/in/mohsenabedelaal/" target="_blank">
+<a href="https://www.linkedin.com/in/mohsen-abedelaal/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-novoforce?style=flat-square&logo=linkedin&logoColor=white&color=blue&labelColor=000000" alt="LinkedIn"/>
 </a></em>
