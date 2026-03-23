@@ -31,14 +31,14 @@
 
 <div align="center">
 
-```
-  🤖 AI / ML      :  PyTorch, TensorFlow, scikit-learn
-  🐍 Languages    :  Python, JavaScript
-  🌐 Web          :  React, Node.js, HTML, CSS, Bootstrap, Streamlit, TailWind, NextJS
-  🗄️ Backend      :  FastAPI, Flask, Django
-  🗃️ Database     :  PostgreSQL, MySQL, MongoDB
-  ☁️ DevOps       :  Docker, Git, Linux, CI/CD , AWS Cloud
-```
+<table>
+  <tr><td>🤖 AI / ML</td><td>PyTorch, TensorFlow, scikit-learn</td></tr>
+  <tr><td>🐍 Languages</td><td>Python, JavaScript</td></tr>
+  <tr><td>🌐 Web</td><td>React, Node.js, HTML, CSS, Bootstrap, Streamlit, TailWind, NextJS</td></tr>
+  <tr><td>🗄️ Backend</td><td>FastAPI, Flask, Django</td></tr>
+  <tr><td>🗃️ Database</td><td>PostgreSQL, MySQL, MongoDB</td></tr>
+  <tr><td>☁️ DevOps</td><td>Docker, Git, Linux, CI/CD, AWS Cloud</td></tr>
+</table>
 
 </div>
 
